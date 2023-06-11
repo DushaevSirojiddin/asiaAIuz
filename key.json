@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focal-road-362517",
+  "private_key_id": "db9b46ab61a39144ef597ed2f30dd24d6efc46a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCT/Hvl7Z5NLrZ/\nsq3DsBadM7bJ09PBVz5HWKojn0UmK0hzyCtw9g8Vt3ko0Qe90IaQSeBZBtSOixSn\naQdkomGSaq+71N2oHqmYfdIlzUoMUNBL1KMV3oWPUZFFOyP/tx493H7Jt9VjwSS4\nR53iZ4HOPdafYElsPVTkQ9/gnrZgm4uyw6ne/BUn4/9lqUb0uwRG2Jl09awTW52L\n9IKumcbE0nPX8s7vFHSykNWnvH62zb5PaflwKUauCdlr1MR1BAfa6vK+H4l9LSkJ\nVuEpwE0joVWeRUGk8sObGXiNAn0r3+P+WgsOiSZNAtdlpeNN+Ty6Kx+LyNKzsHvS\nX8eKSK0pAgMBAAECggEAQyE4ju/AbKCxFrJWErvxNjR8SYe2ujC6RqEY5Pnd41el\nESiPVDm6VA6bfoF78oYCVLe+doQbreG3Z83EFcl3W3Tb7Oe9+QKXyl3hE1bRrU6H\nfq6hoE0F5yKINJCEXv6RUFySgyzKNuspnhKWs1pizszMbBXAmMIlnTqQ9xLoBmA4\nPuYXIVDeoJ89x0MVVNMNAqo6oVKEiG8INx2qEbfrxEso7K9oMhfR9mP0jFHVJiDq\nLz2p4+MvZMJEh41aPJC/pd6pOSD5d/N3yjdx07swsao3wKS/tUBS9Ogenkpp24sv\nmzymZ7D9IqFR0yUuif3AheSd2IrsXEz2EMOY+sQN1QKBgQDKmyOMhzrUIsSMdDzC\nNg5vgaNB4lNWwhDLF99Gk/yjdYPPBa/X9ENrwx6nPS0B5kT16mOmgE9XFbGjgVK2\nSh7o4gh7puFOxXYV40Ccs+K9zkbs3F8e+b2YDJv89//CvZD6rrgfH8Q15Nfehod5\neCYTCDEoffoU/NL1vGx4DDiTtwKBgQC6/GlSYkB5pHs7QlxrU1m3vhfw8NI/LcQ7\nuR6M6EyTo9fcM2aZPk90TAZe4JTL7N96EzzSl4+Tk7/IXe64jELVfy5WRFrkARmC\nwGnYuaS5DANUeIckpAaXPssovVPgz59E4Mm3eIbPtITMqHbGXDmHBo277+3Rxruc\nKsH/MMuGHwKBgQCTmjxmx6obHA03CgOttXYE1FwcxobSgOV9IDIgl/WJHDbfnpQB\n70ki++6cBhyA8sIwqgbZKUcj+YEFzlR0y0EDhpCJjQU9vuuNfJb40rCQePQA4XdG\n+MigOid2PzKMLFCv4JPw0NLANKzzx+xwmRCb8u7lQgnsOlhygEhBmR2qtwKBgExV\n7Z1vdQj0CEcaAWbjYTYtCdMYTYzzXzBOk9VMpK6FbgN8jH81O/SrcNJc9wIFkvpg\nTi1fKINEB0CCcImw4TwNrtoTD9QTStnhOZT7vO66o8VhazKfL/2g6gmYuVyHBmt1\nJYScVNUIykpO4CZ80hN4rnYyLjG84yyPHCHVRtFbAoGAUwss5bkA9oCHGj6Nm5ul\nmAlBevWLSln6BKwXhNwTC+oHz/qd3vOUi1mT2sFakGcl4n/8bA4fgkxKuMZ7DXi/\nEmGlC+v9bX5UZFCq/j/djC2CgVOWkXjV74luZN9W7gEPa9hYLZMnLJ9Xn/W9uIiE\niTNdzsOSrKNrhCPzICwuDvU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bikal-138@focal-road-362517.iam.gserviceaccount.com",
+  "client_id": "101961597644486626855",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bikal-138%40focal-road-362517.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
