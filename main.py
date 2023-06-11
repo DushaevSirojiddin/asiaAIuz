@@ -112,9 +112,10 @@ with container:
             st.session_state['generated'].append(output)
         # Translate the user's input from Uzbek to English, get the chatbot's response in English,
         # and translate the response back to Uzbek
-        output = generate_response(user_input)
-        st.session_state['past'].append(user_input)
-        st.session_state['generated'].append(output)
+        else:
+            output = generate_response(user_input)
+            st.session_state['past'].append(user_input)
+            st.session_state['generated'].append(output)
 
 if st.session_state['generated']:
     with response_container:
