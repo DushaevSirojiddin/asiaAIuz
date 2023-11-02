@@ -58,27 +58,6 @@ if 'total_tokens' not in st.session_state:
 if 'total_cost' not in st.session_state:
     st.session_state['total_cost'] = 0.0
 
-# Sidebar
-st.sidebar.title("Sidebar")
-model_name = st.sidebar.radio("Choose a model:", ("GPT-3.5", "GPT-4"))
-counter_placeholder = st.sidebar.empty()
-counter_placeholder.write(f"Total cost of this conversation: ${st.session_state['total_cost']:.5f}")
-clear_button = st.sidebar.button("Clear Conversation", key="clear")
-
-# reset everything
-if clear_button:
-    st.session_state['generated'] = []
-    st.session_state['past'] = []
-    st.session_state['messages'] = [
-        {"role": "system", "content": "You are a helpful assistant."}
-    ]
-    st.session_state['number_tokens'] = []
-    st.session_state['model_name'] = []
-    st.session_state['cost'] = []
-    st.session_state['total_cost'] = 0.0
-    st.session_state['total_tokens'] = []
-    counter_placeholder.write(f"Total cost of this conversation: ${st.session_state['total_cost']:.5f}")
-
 # Generate a response
 def generate_response(prompt):
     # Translate the prompt from Uzbek to English
